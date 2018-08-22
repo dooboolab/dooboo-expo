@@ -1,4 +1,7 @@
 # Expo React Native Typescript Starter
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/dooboolab/dooboo-expo.svg)](https://greenkeeper.io/)
+
 > Specification
 * typescript
 * react-navigation
